@@ -1,0 +1,11 @@
+/Services/bin
+/Services/obj
+/DiaryProject/Shared/obj
+/DiaryProject/Shared/bin
+/DiaryProject/Server/obj
+/DiaryProject/Server/bin
+/DiaryProject/Client/obj
+/DiaryProject/Client/bin
+/DataAccess/obj
+/DataAccess/bin
+/.vs
