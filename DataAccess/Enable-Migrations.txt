@@ -1,2 +1,0 @@
-Enable-Migrations
-Add-Migration InitialCreate
